@@ -1,4 +1,5 @@
 import streamlit as st
 
 st.title("Primera app de Schere")
-st.balloons()
+st.text("Buenas noches precioso!!!!!!!!!!!!!!!!!")
+st.toast()
